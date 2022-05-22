@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* .item {
+  border: 1px solid;
+  width: 200px;
+  margin: auto;
+  border-radius: 7px;
+} */
+/* .items {
+  border: 1px solid;
+  width: 200px;
+  margin: auto;
+  border-radius: 7px;
+} */
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.input {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid;
+  width: 200px;
+  margin: auto;
+  border-radius: 7px;
+}
+#green {
+  color: green;
+}
+#strike {
+  text-decoration: line-through;
+}
+button {
+  border: 0;
+  background-color: white;
+  color: grey;
+}
+h3 {
+  color: purple;
+}
